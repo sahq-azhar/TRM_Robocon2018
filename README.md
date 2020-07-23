@@ -8,7 +8,8 @@ Manual robot and a completely Autonomous robot was made to play a game, accordin
  * Python IDE
  * MATLAB for calculations and SIMULINK for simulation of the robot.
  
-**Some photos: -** 
+
+**Some photos: -** <br>
 <img src="https://i.ibb.co/Yc7GhP5/team.jpg">
 <table>
   <tr>
