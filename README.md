@@ -1,6 +1,12 @@
 # TEAM ROBOCON MJCET-2018
 
-A Manual robot and a completely Autonomous robot was made to play a game, according to set of rules by the host country for a National Level Competition "Robocon" held in India at Pune in 2018.
+Manual robot and a completely Autonomous robot was made to play a game, according to set of rules by the host country for a National Level Competition "Robocon" held in India at Pune in 2018.
+
+**Softwares / Programming languages used: -**
+ * Arduino IDE 
+ * CodeVisonAVR 
+ * Python IDE
+ * MATLAB for calculations and SIMULINK for simulation of the robot.
 
 <img src="https://i.ibb.co/Yc7GhP5/team.jpg">
 <table>
