@@ -2,6 +2,9 @@
 
 Manual robot and a completely Autonomous robot was made to play a game, according to set of rules by the host country for a National Level Competition "Robocon" held in India at Pune in 2018.
 
+ 📕  [RULEBOOK](https://aws.robu.in/wp-content/uploads/2017/07/aburobocon2018-rule-book-1.pdf)
+
+
 **Softwares / Programming languages used: -**
  * Arduino IDE 
  * CodeVisonAVR 
