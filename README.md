@@ -25,7 +25,6 @@ Manual robot and a completely Autonomous robot was made to play a game, accordin
 
 <table>
   <tr>
-    
 <td><img src="https://i.ibb.co/vzvhVDV/IMG-9326.jpg" width="300"></td>
 <td><img src="https://i.ibb.co/QvDQf5f/IMG-9287.jpg" width="300"></td>
 <td><img src="https://i.ibb.co/y6DQ4cF/IMG-9290.jpg" width="300"></td>
