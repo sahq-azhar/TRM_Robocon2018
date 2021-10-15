@@ -3,6 +3,11 @@
 Manual robot and a completely Autonomous robot was made to play a game, according to set of rules by the host country for a National Level Competition "Robocon" held in India at Pune in 2018.
 
  📕  [RULEBOOK](https://aws.robu.in/wp-content/uploads/2017/07/aburobocon2018-rule-book-1.pdf)
+ 
+Codes
+---------------------------------
+<a href="https://github.com/TEAMROBOCON-MJCET/TRM/tree/main/2018
+"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 
 **Softwares / Programming languages used: -**
@@ -11,6 +16,7 @@ Manual robot and a completely Autonomous robot was made to play a game, accordin
  * Python IDE
  * MATLAB for calculations and SIMULINK for simulation of the robot.
  
+
 
 **Some photos: -** <br>
 <img src="https://i.ibb.co/Yc7GhP5/team.jpg">
@@ -31,7 +37,6 @@ Manual robot and a completely Autonomous robot was made to play a game, accordin
 
 </tr>
 </table>
-
 
 
 
