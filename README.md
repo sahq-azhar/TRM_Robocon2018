@@ -19,7 +19,7 @@ Codes
 
 
 **Some photos: -** <br>
-<img src="https://i.ibb.co/Yc7GhP5/team.jpg">
+
 <table>
   <tr>
     <td><img src="https://i.ibb.co/2h6RtL1/IMG-9249.jpg" width="300" > </td>
