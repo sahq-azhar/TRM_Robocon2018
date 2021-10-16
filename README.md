@@ -4,10 +4,7 @@ Manual robot and a completely Autonomous robot was made to play a game, accordin
 
  📕  [RULEBOOK](https://aws.robu.in/wp-content/uploads/2017/07/aburobocon2018-rule-book-1.pdf)
  
-Codes
----------------------------------
-<a href="https://github.com/TEAMROBOCON-MJCET/TRM/tree/main/2018
-"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+
 
 
 **Softwares / Programming languages used: -**
@@ -16,9 +13,12 @@ Codes
  * Python IDE
  * MATLAB for calculations and SIMULINK for simulation of the robot.
  
+**Codes:**
 
+<a href="https://github.com/TEAMROBOCON-MJCET/TRM/tree/main/2018
+"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-**Some photos: -** <br>
+**Photos: -** <br>
 
 <table>
   <tr>
