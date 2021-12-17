@@ -1,3 +1,6 @@
+**🔴 **IMPORTANT NOTICE:** 🔴 Beginning December 15, 2021, all details of this repository will be uploaded to the [WEBSITE](https://sahq-azhar.github.io/). I apologise for the inconvenience. Project details and updates will be posted there.
+<br> To learn more about this project, click on this [link](https://sahq-azhar.github.io/robo2018.html) .**
+
 # TEAM ROBOCON MJCET-2018
 
 Manual robot and a completely Autonomous robot was made to play a game, according to set of rules by the host country for a National Level Competition "Robocon" held in India at Pune in 2018.
